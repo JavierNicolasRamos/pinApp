@@ -1,0 +1,142 @@
+[
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "dni": 10101010,
+    "age": 25,
+    "birthDate": "1999-04-12"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "dni": 20202020,
+    "age": 34,
+    "birthDate": "1990-07-21"
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "White",
+    "dni": 30303030,
+    "age": 28,
+    "birthDate": "1996-01-05"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Brown",
+    "dni": 40404040,
+    "age": 45,
+    "birthDate": "1979-03-22"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "dni": 50505050,
+    "age": 52,
+    "birthDate": "1972-10-10"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Miller",
+    "dni": 60606060,
+    "age": 31,
+    "birthDate": "1993-08-30"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Wilson",
+    "dni": 70707070,
+    "age": 40,
+    "birthDate": "1984-12-01"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Moore",
+    "dni": 80808080,
+    "age": 22,
+    "birthDate": "2002-06-17"
+  },
+  {
+    "firstName": "Isabel",
+    "lastName": "Taylor",
+    "dni": 90909090,
+    "age": 60,
+    "birthDate": "1964-11-19"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Anderson",
+    "dni": 11111111,
+    "age": 19,
+    "birthDate": "2005-01-27"
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Thomas",
+    "dni": 12121212,
+    "age": 35,
+    "birthDate": "1989-05-15"
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Jackson",
+    "dni": 13131313,
+    "age": 27,
+    "birthDate": "1997-02-09"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Martin",
+    "dni": 14141414,
+    "age": 48,
+    "birthDate": "1976-04-04"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Lee",
+    "dni": 15151515,
+    "age": 30,
+    "birthDate": "1994-09-12"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Perez",
+    "dni": 16161616,
+    "age": 41,
+    "birthDate": "1983-07-01"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Hall",
+    "dni": 17171717,
+    "age": 23,
+    "birthDate": "2001-02-20"
+  },
+  {
+    "firstName": "Quinn",
+    "lastName": "Allen",
+    "dni": 18181818,
+    "age": 26,
+    "birthDate": "1998-10-08"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Wright",
+    "dni": 19191919,
+    "age": 37,
+    "birthDate": "1987-03-30"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "King",
+    "dni": 21212121,
+    "age": 33,
+    "birthDate": "1991-06-05"
+  },
+  {
+    "firstName": "Tina",
+    "lastName": "Scott",
+    "dni": 22222222,
+    "age": 44,
+    "birthDate": "1980-12-25"
+  }
+]
